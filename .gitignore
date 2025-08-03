@@ -1,0 +1,17 @@
+# Java build
+/build/
+/target/
+/.gradle/
+*.class
+
+# IntelliJ IDEA
+*.iml
+.idea/
+
+# Logs and lock files
+*.log
+*.lock
+
+# OS files
+.DS_Store
+Thumbs.db
